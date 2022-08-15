@@ -1,5 +1,0 @@
-
-import { gallery, form, input, loadMore } from './refs';
-import Notiflix from 'notiflix';
-const axios = require('axios').default;
-import createGalleryMarkup from './galleryMarkup';
